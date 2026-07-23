@@ -140,3 +140,17 @@ Includes:
 - Product-level performance differences were greater than category-level differences.
 - Some products maintained similar inventory levels while producing different sales results.
 - Inventory decisions should therefore be made primarily at the product and month level.
+
+## Dashboard Preview
+
+### Executive Dashboard
+
+![Executive Dashboard](ExecutiveDashboard.png)
+
+### Inventory Analysis
+
+![Inventory Analysis](InventoryAnalysis.png)
+
+### Demand Forecast and Recommendations
+
+![Demand Forecast](DemandForecast.png)
